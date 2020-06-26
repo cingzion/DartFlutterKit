@@ -11,17 +11,17 @@ class HeaderApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp( //  是一个方便的 Widget，它封装了应用程序实现 Material Design 所需要的 一些 Widget。一般作为顶层 widget 使用。
-      home: Scaffold(   //  是一个方便的 Widget，它封装了应用程序实现 Material Design 所需要的 一些 Widget。一般作为顶层 widget 使用。
-        appBar: AppBar(
-          title: Text(
-            "BoYiNewMedia",
+        home: Scaffold(   //  是一个方便的 Widget，它封装了应用程序实现 Material Design 所需要的 一些 Widget。一般作为顶层 widget 使用。
+          appBar: AppBar(
+            title: Text(
+              "BoYiNewMedia",
+            ),
           ),
+          body: HomeContent(),  // 内容区域
         ),
-        body: HomeContent(),  // 内容区域
-      ),
-      theme: ThemeData(       // 主题颜色
-        primarySwatch: Colors.yellow,
-      )
+        theme: ThemeData(       // 主题颜色
+          primarySwatch: Colors.yellow,
+        )
     );
   }
 }
@@ -81,7 +81,7 @@ class HomeContent extends StatelessWidget {
           color: Colors.yellow,     // 颜色
           border: Border.all(       // 设置边框
             color: Colors.blue,     // 设置边框颜色
-            width: 6.0,             // 设置边框的宽度 
+            width: 6.0,             // 设置边框的宽度
           ),
           borderRadius: BorderRadius.all( // 设置边框圆角
             Radius.circular(10),
@@ -91,7 +91,22 @@ class HomeContent extends StatelessWidget {
         padding: EdgeInsets.fromLTRB(10, 30, 5, 0),         // 设置4个内边距都不一样
         margin: EdgeInsets.fromLTRB(10, 30, 5, 0),          // 设置外边距
         // transform: Matrix4.translationValues(100, 0, 0), // 位移
-        transform: Matrix4.rotationZ(-0.3)                  // 旋转
+        // transform: Matrix4.rotationZ(-0.3)               // 旋转
+        // transform: Matrix4.diagonal3Values(1.2, 1, 1)    // 倾斜
+        /*
+          alignment
+              topCenter：顶部居中对齐
+              topLeft：顶部左对齐
+              topRight：顶部右对齐
+              center：水平垂直居中对齐
+              centerLeft：垂直居中水平居左对齐
+              centerRight：垂直居中水平居右对齐
+              bottomCenter 底部居中对齐
+              bottomLeft：底部居左对齐
+              bottomRight：底部居右对齐
+           */
+        alignment: Alignment.center,                    // 文字对齐方式
+
 
       ),
     );
