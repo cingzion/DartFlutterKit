@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ed37c86-323c-4c1b-94d5-5eefe5c47c0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dLVnkUejGwEoG5wjzqwJMPYEBv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/flutterapp" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\09 Dart中的对象 类（36分11秒）" />
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\01 Dart介绍 Win Mac上面分别搭建Dart环境  开发工具配置 以及运行Dart（7分19秒）" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\14 Dart中的库 自定义库、系统库、第三方库(20分29秒)" />
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\13 Dart中的泛型 泛型方法  泛型类 泛型接口(23分43秒)" />
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\12 Dart中一个类实现多个接口 以及Dart中的Mixins（15分10秒）" />
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\11 Dart中的抽象类 多态 以及接口（26分46秒）" />
+      <recent name="E:\Codes\PrivatesKit\DartFlutterKit\README\01 Dart入门实战教程(14讲)\10 Dart中的类 静态成员 操作符 类的继承（31分13秒）" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.04forEach map where any every.dart">
+    <configuration name="02 算术运算符.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/04 Dart运算符 条件表达式 Dart类型转换（35分 6秒）/demo04/02 算术运算符.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/04 Dart运算符 条件表达式 Dart类型转换（35分 6秒）/demo04" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02set.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/06 Dart 集合类型List Set Map详解 以及循环语句 forEach map where any every（37分47秒）/demo06/02set.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/06 Dart 集合类型List Set Map详解 以及循环语句 forEach map where any every（37分47秒）/demo06" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04forEach map where any every.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/06 Dart 集合类型List Set Map详解 以及循环语句 forEach map where any every（37分47秒）/demo06/04forEach map where any every.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/README/01 Dart入门实战教程(14讲)/06 Dart 集合类型List Set Map详解 以及循环语句 forEach map where any every（37分47秒）/demo06" />
+      <method v="2" />
+    </configuration>
+    <configuration name="man.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/man.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/lib" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.04forEach map where any every.dart" />
+        <item itemvalue="Dart Command Line App.02set.dart" />
+        <item itemvalue="Dart Command Line App.02 算术运算符.dart" />
+        <item itemvalue="Dart Command Line App.man.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed37c86-323c-4c1b-94d5-5eefe5c47c0d" name="Default Changelist" comment="" />
+      <created>1592204528395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592204528395</updated>
+      <workItem from="1592204529824" duration="175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="183" key="#Notifications" timestamp="1592287563835">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="183" key="#Notifications/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287563835" />
+    <state x="1150" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592581237925">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1150" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592581237925" />
+    <state x="1042" y="144" key="FileChooserDialogImpl" timestamp="1593073040907">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287609105" />
+    <state x="1042" y="144" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1593073040907" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1593073045183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287870154" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1593073045183" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1593073045183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287870153" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1593073045183" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1593073045183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287870153" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1593073045183" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1593073045183">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287870153" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1593073045183" />
+    <state x="-1757" y="214" key="SettingsEditor" timestamp="1593070030181">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1757" y="214" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1593070030181" />
+    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592204690314" />
+    <state x="-1828" y="92" width="1736" height="866" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1592287633947">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="866" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1592287633947" />
+    <state x="334" y="134" key="new project wizard" timestamp="1592204703598">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="134" key="new project wizard/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592204703598" />
+    <state x="1133" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1592411419639">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1133" y="246" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1592411419639" />
+  </component>
+</project>
