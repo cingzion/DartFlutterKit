@@ -80,7 +80,7 @@ class HomeContent extends StatelessWidget {
 
 
 // 使用 ListView.builder 组件
-/*
+
 class HomeContent extends StatelessWidget {
     List<String> list = new List<String>();
 
@@ -103,26 +103,3 @@ class HomeContent extends StatelessWidget {
       );
     }
 }
-*/
-
-
-class HomeContent extends StatelessWidget {
-  // 自定义方法
-  Widget _getListData(context, index){
-    return ListTile(
-      leading: Image.network(listData[index]["imageUrl"]),
-      title: Text(listData[index]["title"]),
-      subtitle: Text(listData[index]["author"]),
-    );
-  }
-
-
-  @override
-  Widget build(BuildContext context){
-    return ListView.builder(
-        itemCount: listData.length,
-        itemBuilder: this._getListData,
-    );
-  }
-}
-
