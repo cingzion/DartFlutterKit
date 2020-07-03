@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'res/listData.dart';
 
 void main() => runApp(RootApp());
 
@@ -47,7 +46,7 @@ class LayoutContent extends StatelessWidget {
 }*/
 
 // 循环遍历
-class LayoutContentA extends StatelessWidget {
+class LayoutContent extends StatelessWidget {
   List<Widget> _getListData(){
     List<Widget> list = new List();
 
@@ -83,35 +82,3 @@ class LayoutContentA extends StatelessWidget {
     );
   }
 }
-
-// 使用数据展示的方式
-class LayoutContent extends StatelessWidget {
-  List<Widget> _getListData(){
-    var tempList = listData.map((value){
-      return Container(
-        child: Column(
-          children: <Widget> [
-            Image.network(value['imageUrl']),
-            Text(value['title']),
-          ]
-        ),
-      );
-    });
-
-    return tempList.toList();
-
-  }
-
-  @override
-  Widget build(BuildContext context){
-    return GridView.count(        // GridView.count 实现网格布局
-      padding: EdgeInsets.all(10),// 让它与 APP 上下左右 有一点距离
-      crossAxisSpacing: 20.0,   // 水平子 Widget 之间间距
-      mainAxisSpacing: 20.0,    // 上下之间的距离
-      crossAxisCount: 2,        // 一行的 Widget 数量
-      childAspectRatio: 0.7,    // 子 Widget 宽高比例, 它表示宽度和高度的比例
-      children: this._getListData(),
-    );
-  }
-}
-
