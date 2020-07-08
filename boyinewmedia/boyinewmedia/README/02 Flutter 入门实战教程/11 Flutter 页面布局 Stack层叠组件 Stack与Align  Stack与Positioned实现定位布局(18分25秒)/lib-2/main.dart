@@ -38,29 +38,22 @@ class LayoutContainer extends StatelessWidget {
   @override
   Widget build(BuildContext context){
     return Center(
-      child: Container(
-        height: 400,
-        width: 300,
-        color: Colors.red,
-        child: Stack(
-          // alignment: Alignment.center,
+      child: Stack(
+          alignment: Alignment(1, 0.3),
           children: <Widget>[
-            Positioned(
-              left: 10,
-              child: Icon(Icons.home, size: 40, color: Colors.white),
+            Container(
+              height: 400,
+              width: 300,
+              color: Colors.red,
             ),
-            Positioned(
-              bottom: 0,
-              child: Icon(Icons.search, size: 40, color: Colors.white),
+            Text(
+              "我是一个文本11",
+              style: TextStyle(
+                fontSize: 20,
+                color: Colors.white,
+              ),
             ),
-            Positioned(
-              right: 0,
-              child: Icon(Icons.settings, size: 40, color: Colors.orange),
-            ),
-
           ]
-        ),
-
       )
     );
   }

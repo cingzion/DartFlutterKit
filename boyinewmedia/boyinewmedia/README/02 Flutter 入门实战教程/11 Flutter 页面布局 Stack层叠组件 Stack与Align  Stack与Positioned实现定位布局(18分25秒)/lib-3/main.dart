@@ -45,16 +45,16 @@ class LayoutContainer extends StatelessWidget {
         child: Stack(
           // alignment: Alignment.center,
           children: <Widget>[
-            Positioned(
-              left: 10,
+            Align(
+              alignment: Alignment.topLeft,
               child: Icon(Icons.home, size: 40, color: Colors.white),
             ),
-            Positioned(
-              bottom: 0,
+            Align(
+              alignment: Alignment.center,
               child: Icon(Icons.search, size: 40, color: Colors.white),
             ),
-            Positioned(
-              right: 0,
+            Align(
+              alignment: Alignment.bottomRight,
               child: Icon(Icons.settings, size: 40, color: Colors.orange),
             ),
 
