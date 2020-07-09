@@ -55,7 +55,6 @@ class HomePage extends StatelessWidget{
 }*/
 
 // 自定义 StatefulWidget 有状态组件
-/*
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);
 
@@ -88,48 +87,5 @@ class _homePageState extends State<HomePage> {
     );
   }
 }
-*/
-
-
-
-class HomePage extends StatefulWidget {
-  HomePage({Key key}):super(key: key);
-
-  _HomePageState createState() => _HomePageState();
-}
-
-class _HomePageState extends State<HomePage> {
-  // 定义一个List
-  List list = new List();
-
-
-
-
-  @override
-  Widget build(BuildContext context){
-    return ListView(
-      children: <Widget>[
-        Column(
-          children: this.list.map((item){
-            return ListTile(
-              title: Text(item),
-            );
-          }).toList(),
-        ),
-        SizedBox(height: 20),
-        RaisedButton(
-          child: Text("按钮"),
-          onPressed: () {
-              setState((){
-                this.list.add("新增数据1");
-                this.list.add("新增数据2");
-              });
-          },
-        ),
-      ],
-    );
-  }
-}
-
 
 
