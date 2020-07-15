@@ -7,20 +7,14 @@ import 'tabs/Setting.dart';
 
 // TODO：自定义 Tabs 组件 start
 class Tabs extends StatefulWidget {
-  final index;
+  Tabs({Key key}):super(key: key);
 
-  Tabs({Key key, this.index=0}):super(key: key);
-
-  _TabsState createState() => _TabsState(this.index);
+  _TabsState createState() => _TabsState();
 }
 
 class _TabsState extends State<Tabs> {
   int _currentIndex = 0;
 
-  // 构造方法
-  _TabsState(index){
-    this._pageList = index;
-  }
 
   List _pageList = [
     HomePage(),
